@@ -1,0 +1,40 @@
+body
+{
+	background-image:url("https://64.media.tumblr.com/22423334b2c4d8911015732a7bdbf679/tumblr_oc2kcehyAO1ts598co1_540.gif");
+	background-size: cover;
+	font-family:cursive;
+	color:rgb(5, 136, 251);
+}
+
+	.login_div1 , .login_div2
+	{
+		background: teal;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: rgb(203, 164, 253);
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+color:rgb(240, 6, 107);
+}
